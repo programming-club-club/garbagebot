@@ -1,0 +1,6 @@
+need to go into cmd and run the bot with "node bot.js"
+ctrl+c to go to a new line
+need to run bot.js if you wanna update it while it's ongoing
+requires some dependencies but shouldn't be necessary? i guess
+
+ask me for the token if the thing don't work
