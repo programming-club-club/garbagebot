@@ -57,15 +57,6 @@ function stinky(channelID){
 	sendMessage(channelID, 'go take a shower, smelly!');
 };
 
-// this doesn't work cause im stupid
-/*function repeat(channelID, message)
-{
-	if (blacklist.includes(message))
-		{
-		sendMessage(channelID, message);
-		}
-};*/
-
 bot.on('message', function (user, userID, channelID, message, evt) {
 	
     // Our bot needs to know if it will execute a command
