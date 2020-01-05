@@ -1,6 +1,10 @@
-need to go into cmd and run the bot with "node bot.js"
-ctrl+c to go to a new line
-need to run bot.js if you wanna update it while it's ongoing
+node bot.js
 requires some dependencies but shouldn't be necessary? i guess
 
-ask me for the token if the thing don't work
+Planned functions: 
+!bruh (posts a bruh sound effect idk)
+!yt 'whatever' (searches for a youtube video)
+!google 'blah blah' (posts a google link to a search for the input maybe)
+!uwuize 'sentence' (you know what the fuck this thing does)
+!hydration (toggle command maybe? reminder to drink water or some gay shit)
+
