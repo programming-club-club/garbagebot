@@ -1,10 +1,4 @@
 node bot.js
 requires some dependencies but shouldn't be necessary? i guess
 
-Planned functions: 
-!bruh (posts a bruh sound effect idk)
-!yt 'whatever' (searches for a youtube video)
-!google 'blah blah' (posts a google link to a search for the input maybe)
-!uwuize 'sentence' (you know what the fuck this thing does)
-!hydration (toggle command maybe? reminder to drink water or some gay shit)
-
+reminder to add proper documentation at some point
